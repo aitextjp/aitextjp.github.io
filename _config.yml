@@ -1,0 +1,7 @@
+# Jekyll configs.
+name: aitextjp.github.io
+description: aitextjp.github.io
+url: "https://aitextjp.github.io/"
+markdown: GFM
+highlighter: rouge
+theme: jekyll-theme-cayman
